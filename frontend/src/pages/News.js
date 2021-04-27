@@ -4,6 +4,7 @@ import Annotator from "../components/upload/annotation/annotator";
 export default function News() {
   return (
     <div>
+      <br />
       <Annotator />{" "}
     </div>
   );
